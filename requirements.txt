@@ -1,0 +1,10 @@
+pytesseract
+torch
+torchvision
+torchaudio
+flask
+ultralytics
+customtkinter
+openpyxl
+# paddlepaddle -i https://pypi.tuna.tsinghua.edu.cn/simple
+# paddleocr>=2.0.1

@@ -1,0 +1,9 @@
+train: /home/dane/Coding/hpmDetection/hpm_traindata/belege data/train
+val: /home/dane/Coding/hpmDetection/hpm_traindata/belege data/val
+
+nc: 3
+
+names: 
+  0: "summe"
+  1: "label"
+  2: "title"

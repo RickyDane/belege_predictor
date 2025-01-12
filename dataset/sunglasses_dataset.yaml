@@ -1,0 +1,7 @@
+train: /home/dane/Schreibtisch/yolo ObjectDetection/hpm_traindata/sunglasses/train
+val: /home/dane/Schreibtisch/yolo ObjectDetection/hpm_traindata/sunglasses/val
+
+nc: 1
+
+names: 
+  0: "sunglasses"
